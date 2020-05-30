@@ -10,3 +10,8 @@ solutions to ES6 Challenges on freecodecamp.org
 - [Set Default Parameters for Your Functions](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/set-default-parameters-for-your-functions.js)
 - [Use the Rest Parameter with Function Parameters](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-the-rest-parameter-with-function-parameters.js)
 - [Use the Spread Operator to Evaluate Arrays In-Place](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-the-spread-operator-to-evaluate-arrays-in-place.js)
+- [Use Destructuring Assignment to Extract Values from Objects](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-destructuring-assignment-to-extract-values-from-objects.js)
+- [Use Destructuring Assignment to Assign Variables from Objects](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-destructuring-assignment-to-assign-variables-from-nested-objects.js)
+- [Use Destructuring Assignment to Assign Variables from Nested Objects](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-destructuring-assignment-to-assign-variables-from-nested-objects.js)
+- [Use Destructuring Assignment to Assign Variables from Arrays](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-destructuring-assignment-to-assign-variables-from-arrays.js)
+- [Use Destructuring Assignment to Pass an Object as a Function's Parameters](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters.js)
