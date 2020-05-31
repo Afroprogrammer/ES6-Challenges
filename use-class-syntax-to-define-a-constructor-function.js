@@ -8,6 +8,7 @@ The Vegetable class allows you to create a vegetable object with a property name
 // Only change code below this line
 class Vegetable{
   constructor(name){
+    //sets the property and the passed in value becomes the properties value;
     this.name = name;
   }
 }

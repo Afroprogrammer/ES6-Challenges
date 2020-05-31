@@ -15,3 +15,8 @@ solutions to ES6 Challenges on freecodecamp.org
 - [Use Destructuring Assignment to Assign Variables from Nested Objects](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-destructuring-assignment-to-assign-variables-from-nested-objects.js)
 - [Use Destructuring Assignment to Assign Variables from Arrays](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-destructuring-assignment-to-assign-variables-from-arrays.js)
 - [Use Destructuring Assignment to Pass an Object as a Function's Parameters](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters.js)
+- [Create Strings using Template Literals](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/create-strings-using-template-literals.js)
+- [Write Concise Object Literal Declarations Using Object Property Shorthand](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/write-concise-object-literal-declarations-using-object-property-shorthand.js)
+- [Write Concise Declarative Functions with ES6](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/write-concise-declarative-functions-with-es6.js)
+- [Use class Syntax to Define a Constructor Function](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-class-syntax-to-define-a-constructor-function.js)
+- [Use getters and setters to Control Access to an Object](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-getters-and-setters-to-control-access-to-an-object.js)
