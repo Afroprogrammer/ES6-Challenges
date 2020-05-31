@@ -25,3 +25,7 @@ solutions to ES6 Challenges on freecodecamp.org
 - [Reuse JavaScript Code Using import](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/reuse-javascript-code-using-import.js)
 - [Use * to Import Everything from a File](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use--to-import-everything-from-a-file.js)
 -[Create an Export Fallback with export default](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/create-an-export-fallback-with-export-default.js)
+-[Import a Default Export](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/import-a-default-export.js)
+-[Create a JavaScript Promise](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/create-a-javascript-promise.js)
+-[Complete a Promise with resolve and reject](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/complete-a-promise-with-resolve-and-reject.js)
+-[Handle a Fulfilled Promise with then](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/handle-a-rejected-promise-with-catch.js)
