@@ -20,3 +20,8 @@ solutions to ES6 Challenges on freecodecamp.org
 - [Write Concise Declarative Functions with ES6](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/write-concise-declarative-functions-with-es6.js)
 - [Use class Syntax to Define a Constructor Function](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-class-syntax-to-define-a-constructor-function.js)
 - [Use getters and setters to Control Access to an Object](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-getters-and-setters-to-control-access-to-an-object.js)
+- [Create a Module Script](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/create-a-module-script.js)
+- [Use export to Share a Code Block](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use-export-to-share-a-code-block.js)
+- [Reuse JavaScript Code Using import](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/reuse-javascript-code-using-import.js)
+- [Use * to Import Everything from a File](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/use--to-import-everything-from-a-file.js)
+-[Create an Export Fallback with export default](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/create-an-export-fallback-with-export-default.js)
