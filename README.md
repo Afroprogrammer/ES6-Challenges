@@ -1,6 +1,8 @@
 # ES6-Challenges
 solutions to ES6 Challenges on freecodecamp.org
+<p>
 <img src ='/image/Es6_image.jpeg'>
+</p>
 
 ----------------------------------------
 - [Differences Between the var and let Keywords](https://github.com/Afroprogrammer/ES6-Challenges/blob/master/explore-differences-between-the-var-and-let-keywords.js)
